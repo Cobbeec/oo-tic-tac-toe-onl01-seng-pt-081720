@@ -1,4 +1,3 @@
-
 class TicTacToe
 
 def initialize 
